@@ -1,3 +1,5 @@
+# Lernjournal 1
+---
 #### Strukturierte Daten: 
 Sind klar Aufgebaut (Gleichbleibende Dateinamen usw.)
 #### Unstrukturierte Daten:
@@ -17,4 +19,4 @@ Suchfunktion mit vielen Kriterien oder Klar benannte Daten.
 ###### Google:
 zeigt dir Berufschulen in deiner Umgebung an.
 ###### Edge:
-Ansicht ohne Map wird gezeigt und zuerst unrelevante Berufschulen
+Ansicht ohne Map wird gezeigt und zuerst unrelevante Berufschulen.
